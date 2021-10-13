@@ -4,8 +4,8 @@ public abstract class Animal {
 	
 	public void emitirSom() {
 		
-		System.out.println("O animal está emitindo algum som.");
+		System.out.println("\nO animal está emitindo algum som.");
 		
 	}
-
+	
 }
